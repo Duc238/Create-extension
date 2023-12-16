@@ -1,1 +1,1 @@
-Extension này mình tạo bằng Visual Studio Code, khi sửa chỉ cần
+Extension này mình tạo bằng Visual Studio Code, khi sửa chỉ cần mở cmd ngay thư mục ChromeExtension và gõ code . để mở Visual Studio Code lên và sửa với điều kiện máy tính đã được cài Visual Studio Code. Khi chạy extension, vào bất kỳ trình duyệt nào, chọn cài đặt -> Extensions/Tiện ích mở rộng -> bật chế độ developer mode lên và chạy
