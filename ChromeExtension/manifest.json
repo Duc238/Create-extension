@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Duc extension",
+  "version": "1.0",
+  "description": "An example Chrome Extension",
+  "permissions": ["storage", "tabs"],
+  "action": {
+    "default_icon": {
+      "16": "images/MaragretWang.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "images/MaragretWang.png"
+  },
+  "background": {
+    "service_worker": "scripts/background.js"
+  }
+}
